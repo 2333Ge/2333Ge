@@ -22,7 +22,7 @@
 ### 📊 编程语言统计
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2333Ge&layout=compact&exclude_repo=2333Ge.github.io&count_private=false&langs_count=8" alt="top langs" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2333Ge&layout=compact&exclude_repo=2333Ge.github.io&exclude_repo=persona-tools-h5&count_private=false&langs_count=8" alt="top langs" height="180em"/>
 
 <!-- <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" height="180em" alt="coding cat"> -->
 
